@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Async_func function test module."""
+"""Tests main module ."""
 import hashlib
 import time
 from random import SystemRandom
